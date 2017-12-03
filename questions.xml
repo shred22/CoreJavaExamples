@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>  
+<question id="1">  
+    <answers>  
+        <answerName>java is a programming language</answerName>  
+        <id>101</id>  
+        <postedBy>Shreyas</postedBy>  
+    </answers>  
+    <answers>  
+        <answerName>java is a platform</answerName>  
+        <id>102</id>  
+        <postedBy>Akanksha</postedBy>  
+    </answers>  
+    <questionName>What is java?</questionName>  
+    <answers>  
+        <answerName>python is a programming language</answerName>  
+        <id>101</id>  
+        <postedBy>Shreyas</postedBy>  
+    </answers>  
+    <answers>  
+        <answerName>python is a platform</answerName>  
+        <id>102</id>  
+        <postedBy>papa shang</postedBy>  
+    </answers>  
+    <questionName>What is Python?</questionName>  
+</question> 
+ 
