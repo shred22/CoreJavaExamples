@@ -11,7 +11,7 @@ public class DateParseDemo {
 
 		Date date = new Date();
 		String str = "18/12/2017";
-		date = new SimpleDateFormat("dd/MM/yyyy").parse(str);
+		date = new SimpleDateFormat("dd/MM/YYYY").parse(str);
 		System.out.println(date);
 
 	}
